@@ -2,6 +2,7 @@
 1.	Overview of datasets obtained.
 	
 In this project, we are going to use two independent datasets. The first one is Citi Bike Trip Histories which provides the details of each trip on daily basis. The other dataset is the Daily Cases, Hospitalizations and Deaths provided by Government of NYC to track the trend of COVID-19. 
+
 2.	Identify the business problem and its context. 
 
 (a)	Context: COVID has triggered significant changes in consumer behaviour in many aspects. Most if not all facilities that are typically used for physical exercise have closed, leaving many consumers looking for alternatives. Also, many consumers are weary of using public transportation due to risk of COVID infections in crowded spaces.
