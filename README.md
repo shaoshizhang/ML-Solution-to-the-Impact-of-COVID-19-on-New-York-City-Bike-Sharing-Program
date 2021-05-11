@@ -1,9 +1,9 @@
 
 1.	Overview of datasets obtained.
-2.	
+	
 In this project, we are going to use two independent datasets. The first one is Citi Bike Trip Histories which provides the details of each trip on daily basis. The other dataset is the Daily Cases, Hospitalizations and Deaths provided by Government of NYC to track the trend of COVID-19. 
 2.	Identify the business problem and its context. 
-3.	
+
 (a)	Context: COVID has triggered significant changes in consumer behaviour in many aspects. Most if not all facilities that are typically used for physical exercise have closed, leaving many consumers looking for alternatives. Also, many consumers are weary of using public transportation due to risk of COVID infections in crowded spaces.
 
 (b)	Business Problem: The change in consumer behaviour has the potential to significantly disrupt the current and future demand of bike sharing programs. Plans to expand the program created before the start of the COVID pandemic may no longer reflect current demand.
@@ -13,7 +13,7 @@ In this project, we are going to use two independent datasets. The first one is 
 (d)	Methods: This project is going to be implemented in Python. Besides techniques 1 and 6 which are Descriptive Analytics and AI Implementation, we are going to use technique 2, Supervised learning models. Because we have two large datasets so that we have plenty training data to compared with and to improve the accuracy. Also, since we are trying to make suggestions and predictions, supervised learning models are more suitable for this project. 
 
 3.	Description of the data available.
-4.	
+
 (a)	Data sources: Since both datasets have date variable, we are going to merge these two datasets by same dates so that we can connect the bike sharing trips with the trends of COVID-19. 
 
 a.	Citi Bike Trip Histories: https://www.citibikenyc.com/system-data
